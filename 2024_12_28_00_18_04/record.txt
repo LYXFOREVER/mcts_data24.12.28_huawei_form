@@ -1,0 +1,9 @@
+task_desc:Watch a trending live stream within the Bilibili app and send a virtual gift to the streamer.
+all_thinking:
+:::round:1:::step_thinking:Alternatively, I could open the apps list by navigating there, find the Bilibili app, and then click on it to start looking for a trending live stream.{"action_type": "click", "index": 4}
+:::round:2:::step_thinking:To access the Bilibili app, I can scroll the apps list to locate it, as it appears to be among the installed applications.{"action_type": "scroll", "direction": "down", "index": 0}
+:::round:3:::step_thinking:To access the Bilibili app, you can click on the visible app labeled "bilibili" in the apps list.{"action_type": "click", "index": 1}
+:::round:4:::step_thinking:To find trending live streams on Bilibili, I can navigate to the "直播" tab, which specifically features live streams.{"action_type": "click", "index": 13}
+:::round:5:::step_thinking:To access trending live streams, I need to click on the "直播" tab to navigate to live broadcasts.{"action_type": "click", "index": 12}
+:::round:6:::step_thinking:To watch a trending live stream, I can click on one of the visible live stream options listed on the screen to enter the stream.{"action_type": "click", "index": 49}
+:::round:7:::step_thinking:To send a virtual gift to the streamer, you should click on the "发送礼物" option, which is typically available in live streaming interfaces to facilitate gifting.{"action_type": "click", "index": 21}
